@@ -1,4 +1,5 @@
 🚀 Desafio Data Science - TelecomX
+
 🎯 Objetivo
 Realizar um processo completo de ETL (Extração, Transformação e Carga) dos dados da TelecomX, seguido por uma análise exploratória detalhada para identificar padrões de churn (cancelamento de clientes) e gerar insights valiosos.
 
